@@ -1,6 +1,6 @@
 # HUman REadable Twin EXplainer (HURETEX) for Deep Learning Models
 
-Readable Twin of unreadable model.
+Readable twin of unreadable model.
 
 ## Requirements:
 
